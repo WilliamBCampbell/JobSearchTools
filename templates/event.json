@@ -1,0 +1,9 @@
+{
+  "id": "unique-event-id",
+  "application_id": "company-requisition",
+  "occurred_at": "2026-01-01T12:00:00+00:00",
+  "kind": "status",
+  "status": "prepared",
+  "evidence_type": "agent_observation",
+  "evidence": "Replace with actual source/path and observation, including actual date above."
+}

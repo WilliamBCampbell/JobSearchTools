@@ -1,0 +1,9 @@
+{
+  "id": "company-requisition",
+  "company_key": "normalized-company",
+  "company": "Employer display name",
+  "role": "Role",
+  "requisition": "ID",
+  "official_url": "https://example.invalid/job",
+  "package_path": "applications/company-requisition"
+}

@@ -1,0 +1,6 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><title>Local application filling check</title>
+<style>body{font:18px/1.5 system-ui;max-width:650px;margin:40px auto;padding:20px}label{display:block;margin:20px 0}input,select,textarea,button{display:block;font:inherit;padding:8px}p{color:#334}</style>
+<h1>Local application filling check</h1><p>Fictional practice only. This page sends no data. Ask the agent to fill the fields and stop before Finish.</p>
+<form id="practice"><label>First name<input name="first_name" required></label><label>Country<select name="country"><option value="">Choose</option><option>United States</option><option>Canada</option></select></label><label>Project example<textarea name="project"></textarea></label><button type="submit">Finish</button></form><p id="result" role="status"></p>
+<script>document.querySelector('form').addEventListener('submit',e=>{e.preventDefault();document.querySelector('#result').textContent='Local test finished. Nothing was transmitted.';});</script></html>

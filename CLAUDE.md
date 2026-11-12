@@ -1,0 +1,1 @@
+Read AGENTS.md and docs/WORKFLOW.md. They are the shared instructions for this repository. Ask for the candidate's private workspace path if it is not already known. No personal career records are stored here.

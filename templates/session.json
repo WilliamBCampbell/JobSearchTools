@@ -1,0 +1,12 @@
+{
+  "updated_at": null,
+  "active_application": null,
+  "current_step": null,
+  "next_action": null,
+  "package_path": null,
+  "approved_materials": [],
+  "action_authorizations": [],
+  "pending_questions": [],
+  "unknown_outcomes": [],
+  "browser_note": "Reinspect after reconnect; do not assume tab IDs or session state survived."
+}

@@ -1,0 +1,11 @@
+{
+  "application_id": "company-requisition",
+  "outcome": "unknown",
+  "observed_at": null,
+  "evidence_type": null,
+  "evidence_path": null,
+  "observed_message": null,
+  "documents_used": [{"path": "applications/company-requisition/resume.pdf", "sha256": "HASH OF ACTUAL UPLOADED FILE"}],
+  "submission_authorization": null,
+  "next_action": "Reconcile before retrying"
+}

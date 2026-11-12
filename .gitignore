@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+workspace/
+private/
+local-config/
+node_modules/
+.DS_Store

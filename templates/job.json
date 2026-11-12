@@ -1,0 +1,12 @@
+{
+  "company": "Employer",
+  "role": "Role",
+  "requisition": "ID",
+  "official_url": "https://example.invalid/job",
+  "verified_at": null,
+  "availability": "unverified",
+  "location": {"text": "", "eligible": "unknown", "source": ""},
+  "compensation": {"minimum": null, "maximum": null, "currency": null, "period": null, "type": "unknown", "source": ""},
+  "travel": {"text": "", "source": "", "candidate_acceptance": "unknown"},
+  "requirements": [{"id": "r1", "kind": "required", "text": "Exact requirement", "source_excerpt": "Exact posting excerpt", "source": "Official URL and location in saved posting"}]
+}

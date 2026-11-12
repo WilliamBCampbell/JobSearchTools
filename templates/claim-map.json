@@ -1,0 +1,15 @@
+{
+  "library_digest": "COMPUTE FROM CURRENT LIBRARY",
+  "plan_digest": "COMPUTE FROM REVIEWED PLAN",
+  "reviewed_by": "",
+  "semantic_review_complete": false,
+  "artifacts": [{
+    "path": "applications/company-requisition/resume.pdf",
+    "sha256": "ACTUAL ARTIFACT HASH",
+    "text_path": "applications/company-requisition/resume.txt",
+    "text_sha256": "ACTUAL READING COPY HASH",
+    "kind": "resume",
+    "all_factual_claims_mapped": false,
+    "claims": [{"text": "Exact claim in reading copy", "kind": "career", "evidence_ids": ["employer.project.action"], "limits_reviewed": false}]
+  }]
+}

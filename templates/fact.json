@@ -1,0 +1,13 @@
+{
+  "id": "employer.project.action",
+  "area": "Employer name",
+  "claim": "Replace with one supported career fact.",
+  "status": "draft",
+  "scope": "career",
+  "tags": ["implementation"],
+  "limits": "Describe ownership, uncertainty, proficiency and what is not established.",
+  "confirmed_by": null,
+  "confirmed_at": null,
+  "supersedes": [],
+  "provenance": [{"source_id": "source-id", "locator": "Page, paragraph, question or timestamp", "excerpt": "Exact source text; do not invent a quotation."}]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "example.imports",
+  "area": "Example Systems",
+  "claim": "Wrote import validation checks for customer data imports.",
+  "status": "confirmed",
+  "scope": "career",
+  "tags": ["data imports", "validation", "implementation"],
+  "limits": "Fictional fixture. Customer IT approved mappings; no measured time savings or sole project ownership.",
+  "confirmed_by": "candidate",
+  "confirmed_at": "2026-01-05",
+  "supersedes": [],
+  "provenance": [{"source_id": "demo-interview", "locator": "Paragraph 2", "excerpt": "I personally wrote the import validation checks."}]
+}
